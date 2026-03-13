@@ -1,5 +1,6 @@
 ## Eric_Tumpang-github.io
-# In my 14 years of experience in development work, I have had the opportunity to contribute to initiatives in public health, child labor and rights, agriculture, and solid waste management (SWM). Throughout my career, I have developed a strong interest in using data analytics and strengthening community capacities to support sustainable and meaningful development outcomes.
+
+14 years of experience in development work, I have had the opportunity to contribute to initiatives in public health, child labor and rights, agriculture, and solid waste management (SWM). Throughout my career, I have developed a strong interest in using data analytics and strengthening community capacities to support sustainable and meaningful development outcomes.
 
 - Led the development and donor approval of Comprehensive Monitoring and Evaluation Plans (CMEP) and Performance Monitoring Plans (PMP) for multi-year programs, ensuring full compliance with USAID and USDOL requirements.
 - Designed and implemented digital data collection tools, databases, and centralized data repositories, improving data accuracy, consistency, and timeliness across multiple implementing partners.
